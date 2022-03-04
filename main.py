@@ -1,6 +1,3 @@
-from itertools import chain
-
-
 def CollatzConjecture(StartNumber):
     global Sucess, AlreadyDoneList
     NumberOfLoop = 0
